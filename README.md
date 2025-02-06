@@ -1,6 +1,6 @@
 # Civil And GIS Engineer Portfolio 🌍  
 
-👋 Welcome to my portfolio! Here, you’ll find my AutoCAD/ Civil 3D, GIS, and remote sensing projects and what I learned. 
+👋 Welcome to my portfolio! Here, you’ll find some of my AutoCAD/ Civil 3D, GIS, and remote sensing projects and what I learned. 
 - I am still keep learning and exploring more!!
 - How to reach me : 🔗 www.linkedin.com/in/chanika-janlueng
 
