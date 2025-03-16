@@ -21,11 +21,34 @@ A precise approach for terrain modeling and geospatial analysis!
 ![Civil 3D Grading](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF2amRzc3ltaDVteDk0Nm9rZGNzcnVzeGk3aWx2b2psMjBqMWt5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roWKfQ1evatZ3rm8Ko/giphy.gif)
 
 
+## Hydrologic Map with Topographic Shaded Relief Visualization
+
+📍 **Study Area: Tak Province, Thailand**
+
+This map showcases hydrological features such as rivers, watersheds, 
+and elevation patterns using Topographic Shaded Relief Visualization. 
+This technique enhances terrain representation by simulating light and shadow effects, 
+making landforms and water flow more visually intuitive.
+
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/03_Hydro_TopoMap.jpg?raw=true" width="480">
+
+**Tools & Techniques Used:**
+- GIS Software: ArcGIS 
+- Shaded Relief Method: Hillshade & Multi-directional Relief
+- Hydrologic Analysis: Watershed delineation, river network extraction
+- Learning & Acknowledgment:
+This is my first attempt at applying shaded relief techniques, inspired by **John Nelson’s tutorials**. 
+While there is room for improvement, this project marks the beginning of my journey 
+in advanced cartographic visualization.
+
+📌 **Next Steps:** Refining shading techniques, enhancing hydrologic accuracy, 
+and exploring different visualization styles.
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
 
 🔹 **Sentinel-2 Image Processing** – Extract NDVI and NDWI in GEE.  
+📍 **Study Area: Tak Province, Thailand**
 
 Using Google Earth Engine to extract Sentinel-2 imagery and analyze NDVI & NDWI: 
 Access satellite data, apply filters, compute vegetation (NDVI) & water indices (NDWI), 
