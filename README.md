@@ -33,7 +33,7 @@ making landforms and water flow more visually intuitive.
 <img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/03_Hydro_TopoMap.jpg?raw=true" width="480">
 
 **Tools & Techniques Used:**
-- GIS Software: ArcGIS 
+- GIS Software: ArcGIS Pro
 - Shaded Relief Method: Hillshade & Multi-directional Relief
 - Hydrologic Analysis: Watershed delineation, river network extraction
 - Learning & Acknowledgment:
@@ -43,6 +43,20 @@ in advanced cartographic visualization.
 
 📌 **Next Steps:** Refining shading techniques, enhancing hydrologic accuracy, 
 and exploring different visualization styles.
+
+## Terrain Art Map
+This Terrain Art Map is inspired by John Nelson’s tutorials and focuses on the artistic visualization of elevation data. 
+By using creative color schemes, shading, and texture, this map transforms raw terrain data into a visually striking representation of the landscape.
+
+**Tools & Techniques Used:**
+- Elevation Data: SRTM DEM from NASA 🌍 (Big thanks to NASA for providing this dataset!)
+- GIS Software: ArcGIS Pro
+- Visualization Techniques: Multi-directional hillshade, colorized elevation, artistic rendering
+- Creative Approach: Experimenting with color gradients, lighting effects, and abstract representation
+
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map01.jpg?raw=true" width="480">
+
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map02.jpg?raw=true" width="480">
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
@@ -55,7 +69,6 @@ Access satellite data, apply filters, compute vegetation (NDVI) & water indices 
 and visualize changes over time. A powerful approach for environmental monitoring!
 
 [![GEE-Sentinel2-NDVI-NDWI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RueXhjeXVhZDhuc3gwb2NhYnlkaTMwdWo2cmpxM3Q4Z2NiMGVyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsLmd3L0L9mfbLeewO/giphy.gif)](https://CJ_GEE01.com)
-
 
 
 ## 🌎 Featured GIS 
