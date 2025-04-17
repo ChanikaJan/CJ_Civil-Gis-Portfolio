@@ -59,6 +59,21 @@ By using creative color schemes, shading, and texture, this map transforms raw t
 <img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map02.jpg?raw=true" width="480">
 
 
+## Transformation to 2D Vintage Terrain Map 🗺️
+This project showcases the transformation of modern digital elevation data into a stylized **2D vintage terrain map**, inspired by hand-drawn cartography and aesthetic map design.  
+Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of antique topographic maps while using modern geospatial data.
+
+**📌 Overview**
+- GIS Software: ArcGIS Pro 
+- 🗺️ Type: 2D Vintage-Style Terrain Map  
+- 🗃️ Data Source: Digital Elevation Model (DEM) - ALOS-PALSA from NASA
+
+
+**🌄 Map Preview**
+
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/05_Transformed_2DMap.jpg?raw=true" width="480">
+
+
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
 
 🔹 **Sentinel-2 Image Processing** – Extract NDVI and NDWI in GEE.  
