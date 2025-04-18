@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5029653-8ffa-422a-9211-95b0f41b5ed2)# Civil And GIS Engineer Portfolio 🌍  
+# Civil And GIS Engineer Portfolio 🌍  
 
 👋 Welcome to my portfolio! Here, you’ll find some of my AutoCAD/ Civil 3D, GIS, and remote sensing projects as well as what I learned. 
 - I am still keep learning and exploring more!!
@@ -68,10 +68,10 @@ Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of
 - 🗺️ Type: 2D Vintage-Style Terrain Map  
 - 🗃️ Data Source: Digital Elevation Model (DEM) - ALOS-PALSA from NASA
 
-
 **🌄 Map Preview**
 
-![2DVintage-3D](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg0MW1vd2Fhemo1dnV1YXhhMDRxeHZndmxwcDc5OWhieWlzbXpsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PccGb7AOp4YrNbkdI0/giphy.gif)
+![2D-3D](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlqdnQ1YndobWd2OWU4ZmxjOHNybTJtaGQ2bnN2engzN3FjN3B2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06A109wWJza9SLkBz3/giphy.gif)
+
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
@@ -94,7 +94,8 @@ Process aerial data, create DSM & DEM, extract CHM,
 and develop precise solar height models. A powerful solution for topographic mapping and renewable energy analysis!
 - Digital Surface Model (DSM) 
 - Digital Elevation Model (DEM)
-- Canopy Height Model (CHM) 
+- Canopy Height Model (CHM)
+  
 <img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/AgisoftOutput.jpg?raw=true" width="480">
 
 ![DEM-Generation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg2c3IxcXg4cW1tNnloeHl3YWdsdWR0czJmODRldjQ5YmppajZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGaI7BrcBm1jjSrsWD/giphy.gif)
