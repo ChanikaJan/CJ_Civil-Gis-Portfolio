@@ -1,4 +1,4 @@
-# Civil And GIS Engineer Portfolio 🌍  
+![image](https://github.com/user-attachments/assets/f5029653-8ffa-422a-9211-95b0f41b5ed2)# Civil And GIS Engineer Portfolio 🌍  
 
 👋 Welcome to my portfolio! Here, you’ll find some of my AutoCAD/ Civil 3D, GIS, and remote sensing projects as well as what I learned. 
 - I am still keep learning and exploring more!!
@@ -71,7 +71,7 @@ Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of
 
 **🌄 Map Preview**
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/05_Transformed_2DMap.jpg?raw=true" width="480">
+![2DVintage-3D](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGg0MW1vd2Fhemo1dnV1YXhhMDRxeHZndmxwcDc5OWhieWlzbXpsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PccGb7AOp4YrNbkdI0/giphy.gif)
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
