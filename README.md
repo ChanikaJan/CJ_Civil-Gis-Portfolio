@@ -70,7 +70,7 @@ Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of
 
 **🌄 Map Preview**
 
-![2D-3D](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlqdnQ1YndobWd2OWU4ZmxjOHNybTJtaGQ2bnN2engzN3FjN3B2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06A109wWJza9SLkBz3/giphy.gif)
+![2DTransformation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdzNjY2Zm9ieHpwbzF0ZmxteXB3ZnFrdGt4YmZiajFvdWxvNjQwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/buPeY8NrpwYsy4lbEO/giphy.gif)
 
 
 
@@ -84,7 +84,6 @@ Access satellite data, apply filters, compute vegetation (NDVI) & water indices 
 and visualize changes over time. A powerful approach for environmental monitoring!
 
 [![GEE-Sentinel2-NDVI-NDWI](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RueXhjeXVhZDhuc3gwb2NhYnlkaTMwdWo2cmpxM3Q4Z2NiMGVyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsLmd3L0L9mfbLeewO/giphy.gif)](https://CJ_GEE01.com)
-
 
 ## 🌎 Featured GIS 
 
