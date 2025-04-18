@@ -21,6 +21,19 @@ A precise approach for terrain modeling and geospatial analysis!
 ![Civil 3D Grading](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF2amRzc3ltaDVteDk0Nm9rZGNzcnVzeGk3aWx2b2psMjBqMWt5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roWKfQ1evatZ3rm8Ko/giphy.gif)
 
 
+## Transformation to 2D Vintage Terrain Map 🗺️
+This project showcases the transformation of modern digital elevation data into a stylized **2D vintage terrain map**, inspired by hand-drawn cartography and aesthetic map design.  
+Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of antique topographic maps while using modern geospatial data.
+
+**📌 Overview**
+- GIS Software: ArcGIS Pro 
+- 🗺️ Type: 2D Vintage-Style Terrain Map  
+- 🗃️ Data Source: Digital Elevation Model (DEM) - ALOS-PALSA from NASA
+
+**🌄 Map Preview**
+
+![2D](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwMDN1MWk1M211YnV5ZmZveTJpczVlZnl4a3Frb2JqdWtyc3FuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVoL4KlwfvC9zCNuxi/giphy.gif)
+
 ## Hydrologic Map with Topographic Shaded Relief Visualization
 
 📍 **Study Area: Tak Province, Thailand**
@@ -57,21 +70,6 @@ By using creative color schemes, shading, and texture, this map transforms raw t
 <img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map01.jpg?raw=true" width="480">
 
 <img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map02.jpg?raw=true" width="480">
-
-
-## Transformation to 2D Vintage Terrain Map 🗺️
-This project showcases the transformation of modern digital elevation data into a stylized **2D vintage terrain map**, inspired by hand-drawn cartography and aesthetic map design.  
-Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of antique topographic maps while using modern geospatial data.
-
-**📌 Overview**
-- GIS Software: ArcGIS Pro 
-- 🗺️ Type: 2D Vintage-Style Terrain Map  
-- 🗃️ Data Source: Digital Elevation Model (DEM) - ALOS-PALSA from NASA
-
-**🌄 Map Preview**
-
-![2DTransformation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdzNjY2Zm9ieHpwbzF0ZmxteXB3ZnFrdGt4YmZiajFvdWxvNjQwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/buPeY8NrpwYsy4lbEO/giphy.gif)
-
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
