@@ -34,6 +34,8 @@ Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of
 
 ![2D](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwMDN1MWk1M211YnV5ZmZveTJpczVlZnl4a3Frb2JqdWtyc3FuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVoL4KlwfvC9zCNuxi/giphy.gif)
 
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/05_Transformed_2DMap.jpg?raw=true" width="480">
+
 ## Hydrologic Map with Topographic Shaded Relief Visualization
 
 📍 **Study Area: Tak Province, Thailand**
