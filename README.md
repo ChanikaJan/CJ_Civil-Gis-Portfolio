@@ -11,12 +11,12 @@
 Import elevation data, generate a surface, refine with breaklines and contours, and optimize for analysis. 
 A precise approach for terrain modeling and geospatial analysis!
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/01_Surfce_3D.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/01_Surfce_3D.jpg?raw=true" width="480">
 
 
 🔹 **Dam Grading Structure** – Basic grading workflow using Civil 3D. 
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/02_Surfce_3D.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/02_Surfce_3D.jpg?raw=true" width="480">
 
 ![Civil 3D Grading](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmF2amRzc3ltaDVteDk0Nm9rZGNzcnVzeGk3aWx2b2psMjBqMWt5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roWKfQ1evatZ3rm8Ko/giphy.gif)
 
@@ -34,7 +34,6 @@ Created entirely using **ArcGIS Pro**, the result captures the nostalgic feel of
 
 ![2D](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwMDN1MWk1M211YnV5ZmZveTJpczVlZnl4a3Frb2JqdWtyc3FuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVoL4KlwfvC9zCNuxi/giphy.gif)
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/05_Transformed_2DMap.jpg?raw=true" width="480">
 
 ## Hydrologic Map with Topographic Shaded Relief Visualization
 
@@ -45,7 +44,7 @@ and elevation patterns using Topographic Shaded Relief Visualization.
 This technique enhances terrain representation by simulating light and shadow effects, 
 making landforms and water flow more visually intuitive.
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/03_Hydro_TopoMap.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/03_Hydro_TopoMap.jpg?raw=true" width="480">
 
 **Tools & Techniques Used:**
 - GIS Software: ArcGIS Pro
@@ -69,9 +68,9 @@ By using creative color schemes, shading, and texture, this map transforms raw t
 - Visualization Techniques: Multi-directional hillshade, colorized elevation, artistic rendering
 - Creative Approach: Experimenting with color gradients, lighting effects, and abstract representation
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map01.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/04_TerrainArt_Map01.jpg?raw=true" width="480">
 
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/04_TerrainArt_Map02.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/04_TerrainArt_Map02.jpg?raw=true" width="480">
 
 
 ## 🛰️ Remote Sensing & Google Earth Engine (GEE) 
@@ -95,7 +94,7 @@ and develop precise solar height models. A powerful solution for topographic map
 - Digital Elevation Model (DEM)
 - Canopy Height Model (CHM)
   
-<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/AgisoftOutput.jpg?raw=true" width="480">
+<img src="https://github.com/ChanikaJan/CJ_Civil-Gis-Portfolio/blob/main/images/AgisoftOutput.jpg?raw=true" width="480">
 
 ![DEM-Generation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg2c3IxcXg4cW1tNnloeHl3YWdsdWR0czJmODRldjQ5YmppajZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGaI7BrcBm1jjSrsWD/giphy.gif)
 
